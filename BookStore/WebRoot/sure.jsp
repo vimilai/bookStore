@@ -13,7 +13,6 @@
   
   <body>
     <form action="https://www.yeepay.com/app-merchant-proxy/node" method="post">
-    1111
     	<input type="hidden" name="p0_Cmd" value="${p0_Cmd}"/>
     	<input type="hidden" name="p1_MerId" value="${p1_MerId}"/>
     	<input type="hidden" name="p2_Order" value="${p2_Order}"/>
